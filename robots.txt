@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://EunkyoungJung.github.io/sitemap.xml
+Host: https://eunkyoungjung.github.io
