@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://yeri-kim.github.io/',
+  url: 'https://EunkyoungJung.github.io/',
   title: 'Blog by EunkyoungJung',
   subtitle: 'hello world',
   copyright: '',
   disqusShortname: 'github-io-12',
   postsPerPage: 6,
-  googleAnalyticsId: 'UA-139726433-1',
+  googleAnalyticsId: 'U ',
   menu: [
     {
       label: 'Articles',
